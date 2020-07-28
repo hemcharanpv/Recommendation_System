@@ -9,4 +9,4 @@ https://drive.google.com/file/d/1P8VXNLkZrJEClDADUNsfAJ6yofciSZg5/view?usp=shari
 
 This project completely build on python language.
 
-Yet to do : I am trying to ceate a dataframe of recommended products for each and every unique item
+Yet to do : Trying to create a dataframe of recommended products for each and every unique item
