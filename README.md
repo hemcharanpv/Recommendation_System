@@ -8,3 +8,5 @@ To get the raw data, follow the drive link below.
 https://drive.google.com/file/d/1P8VXNLkZrJEClDADUNsfAJ6yofciSZg5/view?usp=sharing
 
 This project completely build on python language.
+
+Yet to do : I am trying to ceate a dataframe of recommended products for each and every unique item
